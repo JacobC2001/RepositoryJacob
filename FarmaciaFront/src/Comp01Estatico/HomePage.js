@@ -1,17 +1,22 @@
 import React, { Component } from "react";
 import CompCabecera from "./CompCabecera";
 import CompPiePagina from "./CompPiePagina";
-
+import ComCuerpo from "./ComCuerpo";
+import ComCuerpoLaboratorio from "./ComCuerpoLaboratorio"
 class HomePage extends Component {
 
     render() {
-        return (
+        return (            
             <div>
-                <CompCabecera/>
+               <CompCabecera/><br/><br/>
                 <main role="main" >
-                    Hola está es mi primera pagina
+                    <div>
+                    <ComCuerpo/>
+                    <ComCuerpoLaboratorio/>
+                    </div>
                 </main>
                 <CompPiePagina />
+
             </div>
         );
     }
