@@ -21,9 +21,9 @@ class CompCabecera extends Component {
                   <a  class="nav-link text-light">
                   Administrar</a>
                   <div id="drop-down" >
-                  <Link class="nav-link text-white" to="/marcaMant/0"><a  class="clinks"><img class="icono bg-light" src="img/iconos/laboratorio.png" alt=""/> Marca</a></Link>
-                      <Link class="nav-link text-white" to="/productoMant/0"><a class="clinks"><img class="icono bg-light" src="img/iconos/productos.png" alt=""/> Producto</a></Link>
-                      <Link class="nav-link text-white" to="/categoriaMant/0"><a  class="clinks"><img class="icono bg-light" src="img/iconos/categorias.png" alt=""/> Categorias</a></Link>        
+                  <Link class="nav-link text-white" to="/marcaMant/0"><a  class="clinks"> Marca</a></Link>
+                      <Link class="nav-link text-white" to="/productoMant/0"><a class="clinks">Producto</a></Link>
+                      <Link class="nav-link text-white" to="/categoriaMant/0"><a  class="clinks"> Categorias</a></Link>        
                   </div>
                 </div>
               </div>
