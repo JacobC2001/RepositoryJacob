@@ -5,8 +5,8 @@ import { Link } from "react-router-dom";
 class CompProductoMant extends Component {
   render() {
     return (
-      <div class="container">
-        <br /> <br />
+      <div class="container text-center">
+        <br /> <br /> <span class="fs-1">Tabla Producto</span>
         <div class="card">
           <div class="card-body">
             <table class="table">

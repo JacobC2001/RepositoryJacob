@@ -7,7 +7,7 @@
  .nav-categoria{
      z-index: 2  ;
  }
- 
+
  /*  codigo de yutub      */
  .nav-categoria:hover #drop-down{
      display: flex;

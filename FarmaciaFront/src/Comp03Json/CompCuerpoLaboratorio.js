@@ -9,7 +9,7 @@ class ComCuerpoLaboratorio extends Component {
         </div><br/><br/>
           <div class="container">
             <div class="row">
-              <div class="col-12 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12">
+              <div class="col-12 col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12">
                 <div class="contenedor" id="productos">
                 <a href="https://www.latam.abbott/products.html" target="_blank"><figure>
                     <img
@@ -22,7 +22,7 @@ class ComCuerpoLaboratorio extends Component {
                   </figure></a>
                 </div>
               </div>
-              <div class="col-12 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12">
+              <div class="col-12 col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12">
                 <div class="contenedor" id="productos">
                   <a target="_blank" href="https://www.bayer.com/es/co/andina-y-cac-home"><figure>
                     <img
@@ -35,7 +35,7 @@ class ComCuerpoLaboratorio extends Component {
                   </figure></a>
                 </div>
               </div>
-              <div class="col-12 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12">
+              <div class="col-12 col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12">
                 <div class="contenedor" id="productos">
                   <a href="http://www.brisafarma.com/" target="_blank"><figure>
                     <img
@@ -48,11 +48,11 @@ class ComCuerpoLaboratorio extends Component {
                   </figure></a>
                 </div>
               </div>
-            
-          <br/><br/> 
+           
+        <br/><br/> 
           
-         
-              <div class="col-12 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12">
+          
+              <div class="col-12 col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12">
                 <div class="contenedor" id="productos">
                   <a href="http://www.deutschepharma.com.pe/site/index.php" target="_blank"> <figure>
                     <img
@@ -65,7 +65,7 @@ class ComCuerpoLaboratorio extends Component {
                   </figure></a>
                 </div>
               </div>
-              <div class="col-12 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12">
+              <div class="col-12 col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12">
                 <div class="contenedor" id="productos">
                   <a href="http://www.hersil.com.pe/" target="_blank"><figure>
                     <img
@@ -78,7 +78,7 @@ class ComCuerpoLaboratorio extends Component {
                   </figure></a>
                 </div>
               </div>
-              <div class="col-12 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12">
+              <div class="col-12 col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12">
                 <div class="contenedor" id="productos">
                   <a href="https://www.jnjperu.com/johnson-johnson" target="_blank"><figure>
                     <img
@@ -93,8 +93,8 @@ class ComCuerpoLaboratorio extends Component {
                   </figure></a>
                 </div>
               </div>
-              </div>
-              </div>
+           </div>
+           </div>
         </div>
         );
     }

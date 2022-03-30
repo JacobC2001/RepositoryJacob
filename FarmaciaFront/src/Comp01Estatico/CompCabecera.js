@@ -11,7 +11,7 @@ class CompCabecera extends Component {
             </button>
             <div class="collapse navbar-collapse" id="nav-superior">
               <ul class="navbar-nav me-auto mb-2 mb-lg-0 "></ul>
-              <a class=" nav-link text-light" aria-current="page" >Inicio</a>
+              <a class=" nav-link text-light" href="#" aria-current="page" >Inicio</a>
               <a class="nav-link text-light" href="#laboratorio">Laboratorios</a>
               <a class="nav-link text-light" href="#nosotros">Nosotros</a>
               <a class="nav-link text-light" href="#contactenos">Contactenos</a>

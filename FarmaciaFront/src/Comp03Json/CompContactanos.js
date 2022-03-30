@@ -14,25 +14,19 @@ class CompContactanos extends Component {
           </div>
 
             <p class="p-contacta"> <h2 class="text-center " >Contactanos!!</h2></p>
-            <p class="p-contacta"> <h2 class="text-center " ></h2></p>
+            <p class="p-contacta"> <h2 class="text-center " >Comunicate al :</h2></p>
             <div >
               
-              <div class="input-group mb-3">
-                  <span class="input-group-text text-interno"  ><strong>Nombre</strong></span>
-                  <input type="text"  class="form-control text-interno" id="usuario" name="user" placeholder="Pablo" aria-label="Username" aria-describedby="basic-addon1"/>
-                </div>
-                <div class="input-group mb-3">
-                  <span class="input-group-text text-interno"  ><strong>Apellido</strong></span>
-                  <input type="text"  class="form-control text-interno" id="password" name="password" placeholder="Ramirez" aria-label="Username" aria-describedby="basic-addon1"/>
-                </div>
-                <div class="input-group mb-3">
-                  <span class="input-group-text text-interno"  ><strong>Correo</strong></span>
-                  <input type="email"  class="form-control text-interno" id="password" name="password" placeholder="un@gmail.com" aria-label="Username" aria-describedby="basic-addon1"/>
-                </div>
+      
+                  <span class="input-group-text text-interno"  ><strong>Numero: 978941561</strong></span>
+             
+                  <span class="input-group-text text-interno"  ><strong>Correo: Megafarma@gmail.com</strong></span>
+             
+              
+                 
                 
-                <div class="text-center">
-                    <button type="submit" class="btn btn-primary p-1 fs-3">Ingresar</button>
-                </div>
+                
+                
             </div><br/><br/>
           
             <tbody>

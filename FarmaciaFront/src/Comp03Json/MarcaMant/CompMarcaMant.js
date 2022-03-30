@@ -6,8 +6,8 @@ import { Link } from "react-router-dom";
 class CompMarcaMant extends Component {
   render() {
     return (
-      <div>
-        <br /> <br />
+      <div class="text-center">
+        <br /> <br /> <span class="fs-1">Tabla Marca</span>
         <div class="card">
           <div class="card-body">
             <table class="table">

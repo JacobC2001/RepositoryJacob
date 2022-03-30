@@ -14,7 +14,7 @@ class ComCuerpo extends Component {
       <div class="container sombra-floro">
         <div class="row sombra-floro">
         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 ">
-          <img class="img-floro  float-start" src="" alt="Card image"/>
+          <img class="img-floro  float-start" src="img/red_blu.jpg" alt="Card image"/>
         </div>
         <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 ">
           <div class="card ">

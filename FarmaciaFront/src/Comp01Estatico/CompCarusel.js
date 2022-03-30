@@ -13,7 +13,7 @@ class CompCarusel extends Component {
           <div class="carousel-item active" id="nav-1er-img">
            
             <div class="carousel-caption d-none d-md-block ">
-              <img src="https://media.discordapp.net/attachments/935382445803597854/957454072196255774/LOGOFARMACIA.png"  class="logo2 " alt=""/>
+              <img src="https://media.discordapp.net/attachments/935382445803597854/958498394756755526/LOGOFARMACIA.png"  class="logo2 " alt=""/>
               <h2>Mejores en calidad y precio</h2>
             </div>
           </div>

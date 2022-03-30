@@ -4,8 +4,8 @@ import DataJsonListarMarca from "../DataJason/DataJsonListarMarca.json";
 class CompMarcaMant extends Component {
     render() {
         return (
-          <div class="container">
-            <br /> <br />
+          <div class="container text-center">
+            <br /> <br /> <span class="fs-1">Tabla Marca</span>
             <div class="card">
               <div class="card-body">
                 <table class="table">
