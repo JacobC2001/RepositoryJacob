@@ -12,8 +12,7 @@ class CompCabeceraMant extends Component {
               </button>
               <div class="collapse navbar-collapse" id="nav-superior">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0 "></ul>
-                <Link to="/"><a class=" nav-link text-light" aria-current="page" >Inicio</a></Link>
-             
+                <Link to="/"><a class=" nav-link text-light" aria-current="page" >Inicio</a></Link>             
     
                   <div class="dropdown nav-categoria">
                   <a  class="nav-link text-light">
